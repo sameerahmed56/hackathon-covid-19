@@ -138,3 +138,39 @@ body {
   letter-spacing: 1px;
   font-size: 3.5vh;
 }
+
+.contact-us {
+  text-align: left;
+  /* background-color:rgba(179, 126, 46, 0.75); */
+  background-image: linear-gradient(to right, #dd679d, #f26c7b, #f47e57, #e49738, #c3b12a);
+  padding: 40px;
+  font-size: 22px;
+}
+
+.about-us {
+  text-align: left;
+  background-color: rgba(176, 176, 176, 0.75);
+  padding: 40px;
+  font-size: 22px;
+}
+
+.about-num {
+  letter-spacing: 2px;
+  text-align: left;
+  line-height: 25px;
+  font-size: 23px;
+}
+
+.contact-heading {
+  text-align: center;
+  letter-spacing: 3px;
+  /* font-size: 35px; */
+  padding-bottom: 20px;
+}
+
+.contact-num {
+  letter-spacing: 2px;
+  text-align: center;
+  line-height: 25px;
+  font-size: 23px;
+}
